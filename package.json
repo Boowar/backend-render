@@ -9,15 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geshan/nodejs-sqlite.git"
+    "url": "git+https://github.com/Boowar/backend-render.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/geshan/nodejs-sqlite/issues"
-  },
-  "homepage": "https://github.com/geshan/nodejs-sqlite#readme",
   "dependencies": {
     "better-sqlite3": "^7.4.3",
     "express": "^4.17.1"
